@@ -1,4 +1,3 @@
-
 export default function NewsNotFoundPage() {
   return (
     <div id="error">
